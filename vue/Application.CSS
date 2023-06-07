@@ -1,0 +1,14 @@
+.fond {
+	-fx-background-color:  #E6E6E6;
+
+}
+
+.boutonLancer {
+	-fx-background-color:  #00FF00;
+	-fx-font-weight: 800;
+}
+
+.boutonOptions {
+	-fx-background-color:  #0080FF;
+	-fx-font-weight: 800;
+}
